@@ -9,7 +9,7 @@ Welcome to my GitHub! I’m a passionate developer dedicated to crafting impactf
 
 ## 🚀 Skills & Technologies
 
-- **Languages & Frameworks**: HTML, CSS, JavaScript, React.js, Node.js
+- **Languages & Frameworks**: HTML, CSS, JavaScript, React.js
 - **Design Tools**: Figma (UI/UX Design and Prototyping)   
 - **Special Interests**: Software Design, HCI, and Usability Methodologies  
 
