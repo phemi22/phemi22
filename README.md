@@ -1,5 +1,4 @@
 
-<!--
 # 👋 Hi, I'm Femi 
 
 🌟 **Front-End Developer**
@@ -25,5 +24,3 @@ Welcome to my GitHub! I’m a passionate developer dedicated to crafting impactf
 ---
 
 🤝 Open to collaboration on front-end development, Figma plugins, and open-source projects!
-
--->
