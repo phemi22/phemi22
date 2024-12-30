@@ -19,7 +19,7 @@ Welcome to my GitHub! I’m a passionate developer dedicated to crafting impactf
 
 - 🌐 **Portfolio**: [In Progress]
 - 📫 **Email**: femistephenadedokun@gmail.com
-- 🐦 **X (Twitter)**: https://x.com/femisteven_ 
+- 🐦 **X (Twitter)**: https://x.com/femisteven_
 - 💼 **LinkedIn**: https://www.linkedin.com/in/femi-adedokun/
 
 ---
