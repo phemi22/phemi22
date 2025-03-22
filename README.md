@@ -17,7 +17,7 @@ Welcome to my GitHub! I’m a passionate developer dedicated to crafting impactf
 
 ## 💬 Let's Connect!
 
-- 🌐 **Portfolio**: [In Progress]
+- 🌐 **Portfolio**: <https://femi-adedokun.vercel.app/>
 - 📫 **Email**: femistephenadedokun@gmail.com
 - 🐦 **X (Twitter)**: <https://x.com/femisteven_>
 - 💼 **LinkedIn**: <https://www.linkedin.com/in/femi-adedokun/>
